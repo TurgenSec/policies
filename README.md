@@ -2,6 +2,12 @@
 
 The universe of policies and procedures that govern TurgenSec, taken and adapted from [Github's](https://github.com/github/site-policy), open-sourced for your use and inspiration. We created this repository as a place for people to fork, contribute to, and provide feedback on our policies. This is our official repo of open-sourced policies.
 
+## Structure
+
+Policies that have not been formally approved by all board members are inside the ["pending" directory](/pending).
+
+**Board of Directors** approved policies are contained within the ["approved" directory](/approved).
+
 ### What can I do here?
 
 #### First, you can use and adapt our policies!
