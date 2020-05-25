@@ -28,9 +28,9 @@ Effective date: May 24th, 2020
 **Short version:** *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.*
 
 1. An "Account" represents your legal relationship with TurgenSec. A “User Account” represents an individual User’s authorization to log in to and use the Service and serves as a User’s identity on TurgenSec. “Organizations” are shared workspaces that may be associated with a single entity or with one or more Users where multiple Users can collaborate across many projects at once. A User Account can be a member of any number of Organizations.
-2. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the TurgenSec Privacy Statement, available at [github.com/turgensec/policies/turgensec-privacy-statement](https://github.com/turgensec/policies/articles/turgensec-privacy-statement)) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [github.com/turgensec/policies/](https://github.com/turgensec/policies).
+2. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the TurgenSec Privacy Statement, available at [github.com/turgensec/policies/turgensec-privacy-statement](https://github.com/turgensec/policies/pending/turgensec-privacy-statement)) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [github.com/turgensec/policies/](https://github.com/turgensec/policies).
 3. "Beta Previews" mean software, services, or features identified as alpha, beta, preview, early access, or evaluation, or words or phrases with similar meanings.
-4. “Content” refers to content featured or displayed through the Website, including without limitation code, text, data, articles, images, photographs, graphics, software, applications, packages, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services.
+4. “Content” refers to content featured or displayed through the Website, including without limitation code, text, data, pending, images, photographs, graphics, software, applications, packages, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services.
 5. “TurgenSec,” “We,” and “Us” refer to TurgenSec, Inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
 6. The “Service” refers to the applications, software, products, and services provided by TurgenSec, including any Beta Previews.
 7. “The User,” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using the Website or Service; that accesses or uses any part of the Account; or that directs the use of the Account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for business or government Accounts (See [Section B(5): Additional Terms](#5-additional-terms)).
@@ -67,7 +67,7 @@ In some situations, third parties' terms may apply to your use of TurgenSec. For
 ### C. Acceptable Use
 Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control or sanctions laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.
 
-You agree that you will not under any circumstances violate our [Acceptable Use Policies](https://github.com/turgensec/policies/articles/turgensec-acceptable-use-policies).
+You agree that you will not under any circumstances violate our [Acceptable Use Policies](https://github.com/turgensec/policies/pending/turgensec-acceptable-use-policies).
 
 ### D. Intellectual Property Notice
 **Short version:** *We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.*
@@ -90,14 +90,14 @@ You may not share API tokens to exceed TurgenSec's rate limitations.
 
 You may not use the API to download data or Content from TurgenSec for spamming purposes, including for the purposes of selling TurgenSec users' personal information, such as to recruiters, headhunters, and job boards.
 
-All use of the TurgenSec API is subject to these Terms of Service and the [TurgenSec Privacy Statement](https://github.com/turgensec/policies/articles/turgensec-privacy-statement).
+All use of the TurgenSec API is subject to these Terms of Service and the [TurgenSec Privacy Statement](https://github.com/turgensec/policies/pending/turgensec-privacy-statement).
 
 TurgenSec may offer subscription-based access to our API for those Users who require high-throughput access or access that would result in resale of TurgenSec's Service.
 
 ### F. TurgenSec Additional Product Terms
 **Short version:** *You need to follow certain specific terms and conditions for TurgenSec's various features and products, and you agree to the Supplemental Terms and Conditions when you agree to this Agreement.*
 
-Some Service features may be subject to additional terms specific to that feature or product as set forth in the TurgenSec Additional Product Terms. By accessing or using the Services, you also agree to the [TurgenSec Additional Product Terms](https://github.com/turgensec/policies/articles/turgensec-additional-product-terms).
+Some Service features may be subject to additional terms specific to that feature or product as set forth in the TurgenSec Additional Product Terms. By accessing or using the Services, you also agree to the [TurgenSec Additional Product Terms](https://github.com/turgensec/policies/pending/turgensec-additional-product-terms).
 
 ### G. Beta Previews
 **Short version:** *Beta Previews may not be supported or may change at any time, you may receive confidential information through those programs that must remain confidential while the program is private, and we'd love your feedback to make our Beta Previews better.*
@@ -133,7 +133,7 @@ Our pricing and payment terms are available at [turgensec.com/pricing](https://t
 #### 3. Billing Schedule; No Refunds
 **Payment Based on Plan** For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively and is non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused with an open Account; however, the service will remain active for the length of the paid billing period. In order to treat everyone equally, no exceptions will be made.
 
-**Payment Based on Usage** Some Service features are billed based on your usage. A limited quantity of these Service features may be included in your plan for a limited term without additional charge. If you choose to purchase paid Service features beyond the quantity included in your plan, you pay for those Service features based on your actual usage in the preceding month. Monthly payment for these purchases will be charged on a periodic basis in arrears. See [TurgenSec Additional Product Terms for Details](/articles/turgensec-additional-product-terms).
+**Payment Based on Usage** Some Service features are billed based on your usage. A limited quantity of these Service features may be included in your plan for a limited term without additional charge. If you choose to purchase paid Service features beyond the quantity included in your plan, you pay for those Service features based on your actual usage in the preceding month. Monthly payment for these purchases will be charged on a periodic basis in arrears. See [TurgenSec Additional Product Terms for Details](/pending/turgensec-additional-product-terms).
 
 **Invoicing** For invoiced Users, User agrees to pay the fees in full, up front without deduction or setoff of any kind, in U.S. Dollars. User must pay the fees within thirty (30) days of the TurgenSec invoice date. Amounts payable under this Agreement are non-refundable, except as otherwise provided in this Agreement. If User fails to pay any fees on time, TurgenSec reserves the right, in addition to taking any other action at law or equity, to (i) charge interest on past due amounts at 1.0% per month or the highest interest rate allowed by law, whichever is less, and to charge all expenses of recovery, and (ii) terminate the applicable order form. User is solely responsible for all taxes, fees, duties and governmental assessments (except for taxes based on TurgenSec's net income) that are imposed or become due in connection with this Agreement.
 
@@ -147,7 +147,7 @@ You are responsible for all fees, including taxes, associated with your use of t
 **Short version:** *You may close your Account at any time. If you do, we'll treat your information responsibly.*
 
 #### 1. Account Cancellation
-It is your responsibility to properly cancel your Account with TurgenSec. You can [cancel your Account at any time](/articles/how-do-i-cancel-my-account/) by going into your Settings in the global navigation bar at the top of the screen. The Account screen provides a simple, no questions asked cancellation link. We are not able to cancel Accounts in response to an email or phone request.
+It is your responsibility to properly cancel your Account with TurgenSec. You can [cancel your Account at any time](/pending/how-do-i-cancel-my-account/) by going into your Settings in the global navigation bar at the top of the screen. The Account screen provides a simple, no questions asked cancellation link. We are not able to cancel Accounts in response to an email or phone request.
 
 #### 2. Upon Cancellation
 We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile and the Content of your repositories within 90 days of cancellation or termination (though some information may remain in encrypted backups). This information can not be recovered once your Account is cancelled.
@@ -169,7 +169,7 @@ All provisions of this Agreement which, by their nature, should survive terminat
 For contractual purposes, you (1) consent to receive communications from us in an electronic form via the email address you have submitted or via the Service; and (2) agree that all Terms of Service, agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that those communications would satisfy if they were on paper. This section does not affect your non-waivable rights.
 
 #### 2. Legal Notice to TurgenSec Must Be in Writing
-Communications made through email or TurgenSec Support's messaging system will not constitute legal notice to TurgenSec or any of its officers, employees, agents or representatives in any situation where notice to TurgenSec is required by contract or any law or regulation. Legal notice to TurgenSec must be in writing and [served on TurgenSec's legal agent](/articles/guidelines-for-legal-requests-of-user-data/#submitting-requests).
+Communications made through email or TurgenSec Support's messaging system will not constitute legal notice to TurgenSec or any of its officers, employees, agents or representatives in any situation where notice to TurgenSec is required by contract or any law or regulation. Legal notice to TurgenSec must be in writing and [served on TurgenSec's legal agent](/pending/guidelines-for-legal-requests-of-user-data/#submitting-requests).
 
 #### 3. No Phone Support
 TurgenSec only offers support via email, in-Service communications, and electronic messages. We do not offer telephone support.

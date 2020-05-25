@@ -3,11 +3,11 @@
 
 **Short version:** _We host data from all over the world, and that only works when our Customers are able to upload their data in good faith. While using our Service, you must comply with our Acceptable Use Policies, which include some restrictions on how you use our service._
 
-Capitalized terms used but not defined in these Acceptable Use Policies have the meanings assigned to them in our [Terms of Service](https://github.com/turgensec/policies/articles/turgensec-terms-of-service), [Corporate Terms of Service](https://github.com/turgensec/policies/articles/turgensec-corporate-terms-of-service), and [Privacy Statement](https://github.com/articles/turgensec-privacy-statement). For customers subject to the [Corporate Terms of Service](https://github.com/turgensec/policies/articles/turgensec-corporate-terms-of-service), "you" and "your" refer to "Customer". "We", "us", "our" refer to "TurgenSec".  
+Capitalized terms used but not defined in these Acceptable Use Policies have the meanings assigned to them in our [Terms of Service](https://github.com/turgensec/policies/pending/turgensec-terms-of-service), [Corporate Terms of Service](https://github.com/turgensec/policies/pending/turgensec-corporate-terms-of-service), and [Privacy Statement](https://github.com/pending/turgensec-privacy-statement). For customers subject to the [Corporate Terms of Service](https://github.com/turgensec/policies/pending/turgensec-corporate-terms-of-service), "you" and "your" refer to "Customer". "We", "us", "our" refer to "TurgenSec".  
 
 #### 1. Compliance with Laws and Regulations
 
-You are responsible for using the Service in compliance with all applicable laws, regulations, and all of our Acceptable Use Policies. These policies may be updated from time to time and are provided below, as well as in our [Terms of Service](https://github.com/turgensec/policies/articles/turgensec-terms-of-service) and [Corporate Terms of Service](https://github.com/turgensec/policies/articles/turgensec-corporate-terms-of-service).
+You are responsible for using the Service in compliance with all applicable laws, regulations, and all of our Acceptable Use Policies. These policies may be updated from time to time and are provided below, as well as in our [Terms of Service](https://github.com/turgensec/policies/pending/turgensec-terms-of-service) and [Corporate Terms of Service](https://github.com/turgensec/policies/pending/turgensec-corporate-terms-of-service).
 
 #### 2. Content Restrictions
 
@@ -36,7 +36,7 @@ You will not reproduce, duplicate, copy, sell, resell or exploit any portion of 
 #### 5. Privacy
 Misuse of Personal Information is prohibited.
 
-Any person, entity, or service collecting data from the Service must comply with the [TurgenSec Privacy Statement](https://github.com/turgensec/policies/articles/turgensec-privacy-statement), particularly in regards to the collection of Personal Information. If you collect any Personal Information from the Service, you agree that you will only use that Personal Information for the purpose for which that User has authorized it, or for uses in the express interest of the User and for which there is a legitimate need to use that Personal Information e.g. to protect the User from potential cyber attack from others, or to identify and notify the User that their data has been exposed.
+Any person, entity, or service collecting data from the Service must comply with the [TurgenSec Privacy Statement](https://github.com/turgensec/policies/pending/turgensec-privacy-statement), particularly in regards to the collection of Personal Information. If you collect any Personal Information from the Service, you agree that you will only use that Personal Information for the purpose for which that User has authorized it, or for uses in the express interest of the User and for which there is a legitimate need to use that Personal Information e.g. to protect the User from potential cyber attack from others, or to identify and notify the User that their data has been exposed.
 You agree that you will reasonably secure any Personal Information you have gathered from the Service, and you will respond promptly to complaints, removal requests, and "do not contact" requests from us or other users.
 
 #### 6. Excessive Bandwidth Use

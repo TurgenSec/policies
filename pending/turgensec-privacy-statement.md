@@ -6,7 +6,7 @@ Thanks for entrusting TurgenSec Limited (“TurgenSec”, “we”) with your da
 
 The controller responsible for the processing of your personal information in connection with the Service is TurgenSec Limited, The Studio, Rochester Place, London, England, NW1 9JU, dpo@turgensec.com.
 
-All capitalized terms have their definition in [TurgenSec’s Terms of Service](https://github.com/turgensec/polices/articles/turgensec-terms-of-service), unless otherwise noted here.
+All capitalized terms have their definition in [TurgenSec’s Terms of Service](https://github.com/turgensec/polices/pending/turgensec-terms-of-service), unless otherwise noted here.
 
 
 ### The short version
@@ -75,7 +75,7 @@ TurgenSec obtains OSINT data on a regular basis to help us provide our Services,
 
 We do not intentionally collect “**[Sensitive Personal Information](https://gdpr-info.eu/art-9-gdpr/)**”, such as personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation. We may obtain such information during OSINT gathering, and will only retain such information so much as it is necessary to restrict access to _others_ coming across it through the same methods we employed.
 
-If you are a child under the age of 13, you may not have an Account on TurgenSec. TurgenSec does not knowingly collect information from or direct any of our content specifically to children under 13. Please see our [Terms of Service](https://help.TurgenSec.com/en/turgensec/policies/turgensec-terms-of-service) for information about Account termination.
+If you are a child under the age of 13, you may not have an Account on TurgenSec. TurgenSec does not knowingly collect information from or direct any of our content specifically to children under 13. Please see our [Terms of Service](https://github.com/turgensec/policies/pending/turgensec-terms-of-service) for information about Account termination.
 
 We do not intentionally collect User Personal Information that is stored in free-form content inputs.
 
@@ -91,7 +91,7 @@ We do not intentionally collect User Personal Information that is stored in free
 - We may use User Personal Information to invite you to take part in surveys, beta programs, or other research projects, subject, where necessary, to your consent.
 - We use [Usage Information](#usage-information) and [Device Information](#device-information) to better understand how our Users use TurgenSec and to improve our Website and Service.
 - We may use your User Personal Information if it is necessary for security purposes or to investigate possible fraud or attempts to harm TurgenSec or our Users.
-- We may use your User Personal Information to comply with our legal obligations, protect our intellectual property, and enforce our [Terms of Service](https://github.com/turgensec/policies/turgensec-terms-of-service).
+- We may use your User Personal Information to comply with our legal obligations, protect our intellectual property, and enforce our [Terms of Service](https://github.com/turgensec/policies/pending/turgensec-terms-of-service).
 - We limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first.
 
 #### Our legal bases for processing information
@@ -126,7 +126,7 @@ If you are a member of an Organization, TurgenSec may share your username, [Usag
 #### For legal disclosure
 TurgenSec strives for transparency in complying with legal process and legal obligations. Unless prevented from doing so by law or court order, or in rare, exigent circumstances, we make a reasonable effort to notify users of any legally compelled or required disclosure of their information. TurgenSec may disclose User Personal Information or other information we collect about you to law enforcement if required in response to a valid subpoena, court order, search warrant, a similar government order, or when we believe in good faith that disclosure is necessary to comply with our legal obligations, to protect our property or rights, or those of third parties or the public at large.
 
-For more information about our disclosure in response to legal requests, see our [Guidelines for Legal Requests of User Data](https://github.com/turgensec/policies/guidelines-for-legal-requests-of-user-data).
+For more information about our disclosure in response to legal requests, see our [Guidelines for Legal Requests of User Data](https://github.com/turgensec/policies/pending/guidelines-for-legal-requests-of-user-data).
 
 #### Change in control or sale
 We may share User Personal Information if we are involved in a merger, sale, or acquisition of corporate entities or business units. If any such change of ownership happens, we will ensure that it is under terms that preserve the confidentiality of User Personal Information, and we will notify you on our Website or by email before any transfer of your User Personal Information. The organization receiving any User Personal Information will have to honor any promises we made in our Privacy Statement or Terms of Service.
@@ -136,17 +136,17 @@ We share certain aggregated, non-personally identifying information with others 
 
 We **do not** sell your User Personal Information for monetary or other consideration.
 
-Please note: The California Consumer Privacy Act of 2018 (“CCPA”) requires businesses to state in their privacy policy whether or not they disclose personal information in exchange for monetary or other valuable consideration. While CCPA only covers California residents, when it goes into effect we will voluntarily extend its core rights for people to control their data to _all_ of our users, not just those who live in California. You can learn more about the CCPA and how we comply with it [here](https://help.TurgenSec.com/en/turgensec/policies/turgensecs-notice-about-the-california-consumer-privacy-act).
+Please note: The California Consumer Privacy Act of 2018 (“CCPA”) requires businesses to state in their privacy policy whether or not they disclose personal information in exchange for monetary or other valuable consideration. While CCPA only covers California residents, when it goes into effect we will voluntarily extend its core rights for people to control their data to _all_ of our users, not just those who live in California. You can learn more about the CCPA and how we comply with it [here](https://github.com/turgensec/policies/turgensecs-notice-about-the-california-consumer-privacy-act).
 
 ### Other important information
 
 #### Repository contents
 
-TurgenSec personnel [do not access private repositories unless required to](https://help.TurgenSec.com/en/turgensec/policies/turgensec-terms-of-service#e-private-repositories) for security purposes, to assist the repository owner with a support matter, to maintain the integrity of the Service, or to comply with our legal obligations. However, while we do not generally search for content in your repositories, we may scan our servers and content to detect certain tokens or security signatures, known active malware, or other content known to violate our Terms, such as violent extremist or terrorist content or child exploitation imagery, based on algorithmic fingerprinting techniques. Our Terms of Service provides [more details](https://help.turgensec.com/en/turgensec/policies/turgensec-terms-of-service#e-private-repositories).
+TurgenSec personnel [do not access private repositories unless required to](https://github.com/turgensec/policies/pending/turgensec-terms-of-service#e-private-repositories) for security purposes, to assist the repository owner with a support matter, to maintain the integrity of the Service, or to comply with our legal obligations. However, while we do not generally search for content in your repositories, we may scan our servers and content to detect certain tokens or security signatures, known active malware, or other content known to violate our Terms, such as violent extremist or terrorist content or child exploitation imagery, based on algorithmic fingerprinting techniques. Our Terms of Service provides [more details](https://github.com/turgensec/policies/[ending/turgensec-terms-of-service#e-private-repositories).
 
 If your repository is public, anyone may view its contents. If you include private, confidential or [Sensitive Personal Information](https://gdpr-info.eu/art-9-gdpr/), such as email addresses or passwords, in your public repository, that information may be indexed by search engines or used by third parties.
 
-Please see more about [User Personal Information in public repositories](https://help.TurgenSec.com/en/turgensec/policies/turgensec-privacy-statement#public-information-on-turgensec).
+Please see more about [User Personal Information in public repositories](https://github.com/turgensec/policies/pending/turgensec-privacy-statement#public-information-on-turgensec).
 
 ### How you can access and control the information we collect
 
@@ -167,7 +167,7 @@ We retain and use your information as necessary to comply with our legal obligat
 
 TurgenSec uses cookies to make interactions with our service easy and meaningful. Cookies are small text files that websites often store on computer hard drives or mobile devices of visitors. We use cookies (and similar technologies, like HTML5 localStorage) to keep you logged in, remember your preferences, and provide information for future development of TurgenSec. For security purposes, we use cookies to identify a device. By using our Website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept these cookies, you will not be able to log in or use TurgenSec’s services.
 
-We provide a web page on [cookies and tracking](https://github.com/turgensec/policies/turgensec-subprocessors-and-cookies) that describes the cookies we set, the needs we have for those cookies, and the types of cookies they are (temporary or permanent). It also lists our third-party analytics providers and other service providers, and details exactly which parts of our Website we permit them to track.
+We provide a web page on [cookies and tracking](https://github.com/turgensec/policies/pending/turgensec-subprocessors-and-cookies) that describes the cookies we set, the needs we have for those cookies, and the types of cookies they are (temporary or permanent). It also lists our third-party analytics providers and other service providers, and details exactly which parts of our Website we permit them to track.
 
 #### Tracking and analytics
 

@@ -1,13 +1,6 @@
----
-title: GitHub Sensitive Data Removal Policy
-productVersions:
-  dotcom: '*'
-redirect_from:
-  - /articles/github-sensitive-data-removal-policy
----
-If you believe that content on GitHub infringes a valid copyright you own, please see our [DMCA Takedown Policy](/articles/dmca-takedown-policy/) and our [Guide to Submitting a DMCA Takedown Notice](/articles/guide-to-submitting-a-dmca-takedown-notice/). We rely on the DMCA notice and takedown process for the majority of our removal actions.
+# TurgenSec Sensitive Data Removal Policy
 
-However, we understand that sensitive, security-related content may get published on GitHub – whether accidentally or on purpose – from time to time. We provide our sensitive data removal process to remove this sensitive data in certain exceptional circumstances where the DMCA process would not be applicable, such as when your security is at risk from exposed passwords and you do not own the copyright to the specific content that you need removed, or the content is not protectable by copyright. This guide describes the information GitHub needs from you in order to process a request to remove sensitive data from a repository.
+We understand that sensitive, security-related content may get published on TurgenSec, or end up in our systems – whether accidentally or on purpose – from time to time. We provide our sensitive data removal process to remove this sensitive data, such as when your security is at risk from exposed passwords. This guide describes the information TurgenSec needs from you in order to process a request to remove sensitive data from our records.
 
 ### What is Sensitive Data?
 
@@ -19,12 +12,12 @@ For the purposes of this document, “sensitive data” refers to content that (
 - Documentation (such as network diagrams) that poses a specific security risk for an organization. Internal server names, IP addresses, and URLs, on their own, are not sufficiently sensitive; you must be able to show that the internal server name's use in a particular file or piece of code poses a security threat.
 
 #### Sensitive data removal requests are _not_ appropriate for:
--  Requests to remove content that may infringe your or your organization's copyright rights. If you have questions about how GitHub handles copyright-related matters or would like to report potentially infringing content, please review our [DMCA Takedown Policy](/articles/dmca-takedown-policy/). The sensitive data removal process is generally not intended for the removal of full files or repositories — only for the specific pieces of sensitive data in those files. While there may be cases where files are filled entirely with sensitive information, you must justify the security risk for the removal of such files, and this may increase the time required to process your request.
-- Trademark disputes. If you have questions about how GitHub handles trademark-related matters or would like to report content containing your organization's trade or service marks, please review our [Trademark Policy](/articles/github-trademark-policy/).
-- Mere mentions of your company's identity, name, brand, domain name, or other references to your company in files on GitHub. You must be able to articulate why a use of your company's identity is a threat to your company's security posture before we will take action under this policy.
+-  Requests to remove content that may infringe your or your organization's copyright rights. If you have questions about how TurgenSec handles copyright-related matters or would like to report potentially infringing content. The sensitive data removal process is generally not intended for the removal of full files — only for the specific pieces of sensitive data in those files. While there may be cases where files are filled entirely with sensitive information, you must justify the security risk for the removal of such files, and this may increase the time required to process your request.
+- Trademark disputes. If you have questions about how TurgenSec handles trademark-related matters or would like to report content containing your organization's trade or service marks, please review our [Trademark Policy](/pending/github-trademark-policy/).
+- Mere mentions of your company's identity, name, brand, domain name, or other references to your company in files on TurgenSec. You must be able to articulate why a use of your company's identity is a threat to your company's security posture before we will take action under this policy.
 - Privacy complaints. If you have concerns about your own privacy or you are contacting us on behalf of your employees due to a privacy concern — for example, if there are private email addresses or other personal information posted — please contact us via [our Privacy contact form](https://github.com/contact/privacy).
 - Entire files or repositories that do not pose a specific security risk, but you believe are otherwise objectionable.
-- Content governed by our [Community Guidelines](/articles/github-community-guidelines/), such as malware or general-purpose tools. If you have questions about our Community Guidelines or believe that content on GitHub might violate our guidelines, you can [report that content here](https://github.com/contact/report-content).
+- Content governed by our [Community Guidelines](/pending/github-community-guidelines/), such as malware or general-purpose tools. If you have questions about our Community Guidelines or believe that content on TurgenSec might violate our guidelines, you can [report that content here](https://github.com/contact/report-content).
 
 ### Things to Know
 
@@ -38,30 +31,30 @@ For the purposes of this document, “sensitive data” refers to content that (
 
 ### How Does This Actually Work?
 
-1. **Complainant Investigates.** It is up to the requesting party to conduct their own investigation and to provide us with the [details we require](#your-request-must-include) — most importantly, an explanation of how the data poses a security risk. GitHub is not in a position to search for or make initial determinations about sensitive data on any individual's or organization's behalf.
+1. **Complainant Investigates.** It is up to the requesting party to conduct their own investigation and to provide us with the [details we require](#your-request-must-include) — most importantly, an explanation of how the data poses a security risk. TurgenSec is not in a position to search for or make initial determinations about sensitive data on any individual's or organization's behalf.
 
-2. **Complainant Sends a Sensitive Data Removal Request.** After conducting an investigation, the complainant prepares and [sends a sensitive data removal request](#sending-a-sensitive-data-removal-request) to GitHub. If the request is not sufficiently detailed to demonstrate the security risk and for GitHub to locate the data, we will reply and ask for more information.
+2. **Complainant Sends a Sensitive Data Removal Request.** After conducting an investigation, the complainant prepares and [sends a sensitive data removal request](#sending-a-sensitive-data-removal-request) to TurgenSec. If the request is not sufficiently detailed to demonstrate the security risk and for TurgenSec to locate the data, we will reply and ask for more information.
 
-3. **GitHub Asks User to Make Changes.** In most cases, we will contact the user who created the repository and give them an opportunity to delete or modify the sensitive data specified in the request or to dispute the claim.
+3. **TurgenSec Asks User to Make Changes.** In most cases, we will contact the user who created the repository and give them an opportunity to delete or modify the sensitive data specified in the request or to dispute the claim.
 
-4. **User Notifies GitHub of Changes.** If the user chooses to make the specified changes, they must tell us so within the window of time they've been allowed. If they don't, we will disable the repository. If the user notifies us that they made changes, we will verify that the changes have been made and notify the complainant.
+4. **User Notifies TurgenSec of Changes.** If the user chooses to make the specified changes, they must tell us so within the window of time they've been allowed. If they don't, we will disable the repository. If the user notifies us that they made changes, we will verify that the changes have been made and notify the complainant.
 
   OR
 
 5. **User May Dispute the Request.** If a user believes the content in question is not sensitive data subject to this Policy, they may dispute it. If they do, we will generally leave it up to the complainant to contact the user and work things out with them directly, within reason.
 
-6. **Complainant Reviews Changes.** If the user makes changes, the complainant must review them. If the changes are insufficient, the complainant must provide GitHub with details explaining why. GitHub may disable the repository or give the user an additional chance to make the changes.
+6. **Complainant Reviews Changes.** If the user makes changes, the complainant must review them. If the changes are insufficient, the complainant must provide TurgenSec with details explaining why. TurgenSec may disable the repository or give the user an additional chance to make the changes.
 
-7. **User May Request an Additional Window to Make Changes.** If the user missed their opportunity to remove the sensitive data specified in the notice, we may allow them an additional window of approximately 1 business day, upon request, to make those changes. In that event, GitHub will notify the complainant.
+7. **User May Request an Additional Window to Make Changes.** If the user missed their opportunity to remove the sensitive data specified in the notice, we may allow them an additional window of approximately 1 business day, upon request, to make those changes. In that event, TurgenSec will notify the complainant.
 
 #### What About Forks? (or What's a Fork?)
-One of the best features of GitHub is the ability for users to "fork" one another's repositories. What does that mean? In essence, it means that users can make a copy of a project on GitHub into their own repositories. As the license or the law allows, users can then make changes to that fork to either push back to the main project or just keep as their own variation of a project. Each of these copies is a "[fork](/articles/github-glossary/#fork)" of the original repository, which in turn may also be called the "parent" of the fork.
+One of the best features of TurgenSec is the ability for users to "fork" one another's repositories. What does that mean? In essence, it means that users can make a copy of a project on TurgenSec into their own repositories. As the license or the law allows, users can then make changes to that fork to either push back to the main project or just keep as their own variation of a project. Each of these copies is a "[fork](/pending/github-glossary/#fork)" of the original repository, which in turn may also be called the "parent" of the fork.
 
-GitHub will not automatically disable forks when disabling a parent repository. This is because forks belong to different users and may have been altered in significant ways. GitHub does not conduct any independent investigation into forks. We expect those sending sensitive data removal requests to conduct that investigation and, if they believe that the forks also contain sensitive data, expressly include forks in their request.
+TurgenSec will not automatically disable forks when disabling a parent repository. This is because forks belong to different users and may have been altered in significant ways. TurgenSec does not conduct any independent investigation into forks. We expect those sending sensitive data removal requests to conduct that investigation and, if they believe that the forks also contain sensitive data, expressly include forks in their request.
 
 ### Sending A Sensitive Data Removal Request
 
-Due to the type of content GitHub hosts (mostly software code) and the way that content is managed (with Git), we need complaints to be as specific as possible. In order for us to verify that a user has removed reported sensitive data completely, we need to know exactly where to look.
+Due to the type of content TurgenSec hosts (mostly software code) and the way that content is managed (with Git), we need complaints to be as specific as possible. In order for us to verify that a user has removed reported sensitive data completely, we need to know exactly where to look.
 
 These guidelines are designed to make the processing of requests to remove sensitive data as straightforward as possible.
 

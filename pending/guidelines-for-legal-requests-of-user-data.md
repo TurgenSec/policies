@@ -34,66 +34,30 @@ Before asking us to disclose data, it may be useful to understand how our system
 - **Client** —
 Clients are organisations who are using TurgenSec's services to protect either themselves or _their_ customers' privacy and/or cybersecurity.
 - **User** —
-Users are individuals who are using TurgenSec's services to protect their privacy and/or cybersecurity.
+Users are individuals or organisations who are using TurgenSec's services to protect their own, their employees or their organisation's privacy and/or cybersecurity.
 - **Customer** —
 *Customers* are either *Clients*, or *Users*
 - **Open Source Intelligence (OSINT)** —
-OSINT is data that is freely available on the public Internet; in our case, obtainable without using any malicious hacking techniques. The way we collect OSINT data is usually via our own blend of "Advanced" Googling.
+OSINT is data that is freely available on the public Internet; in our case, the data we collect is obtainable without using any malicious hacking techniques or purchasing of data from Data Brokers or other 3rd parties.
 
-### **Customer** data held by TurgenSec
+The way we collect OSINT data is usually via our own blend of "Advanced" Googling, and via connections in the InfoSec Community.
 
-Here is a non-exhaustive list of the kinds of data we maintain about **Customers**.
+### **User** data held by TurgenSec
+
+Here is a non-exhaustive list of the kinds of data we maintain about **Users**.
 
 - <a name="private-account-data"></a>
 **Private account data** —
-TurgenSec also collects and maintains certain private information about users as outlined in our [Privacy Policy](/Policies/turgensec-privacy-statement).
+TurgenSec also collects and maintains certain private information about users as outlined in our [Privacy Policy](/pending/turgensec-privacy-statement).
 This may include:
   - Private email addresses
   - Payment details
   - Security access logs
   - Data about interactions with private repositories
 
-  To get a sense of the type of private account information that GitHub collects, you can visit your {{ site.data.reusables.user_settings.personal_dashboard }} and browse through the sections in the left-hand menubar.
-
-- <a name="organization-account-data"></a>
-**Organization account data** —
-Information about organizations, their administrative users and repositories is publicly available on GitHub.
-Organization profiles can be found at a URL such as `https://github.com/organization`.
-Public organization profiles can also include additional information that the owners have chosen to share publicly.
-All organization public profiles display:
-  - The organization name
-  - The repositories that the owners have starred
-  - All GitHub users that are owners of the organization
-
-  Optionally, administrative users may also choose to share the following information publicly:
-  - An avatar
-  - An affiliated company
-  - Their location
-  - Direct Members and Teams
-  - Collaborators
-
-- <a name="public-repository-data"></a>
-**Public repository data** —
-GitHub is home to millions of public, open-source software projects.
-You can browse almost any public repository (for example, the [Atom Project](https://github.com/atom/atom)) to get a sense for the information that GitHub collects and maintains about repositories.
-This can include:
-
-  - The code itself
-  - Previous versions of the code
-  - Stable release versions of the project
-  - Information about collaborators, contributors and repository members
-  - Logs of Git operations such as commits, branching, pushing, pulling, forking and cloning
-  - Conversations related to Git operations such as comments on pull requests or commits
-  - Project documentation such as Issues and Wiki pages
-  - Statistics and graphs showing contributions to the project and the network of contributors
-
-- <a name="private-repository-data"></a>
-**Private repository data** —
-GitHub collects and maintains the same type of data for private repositories that can be seen for public repositories, except only specifically invited users may access private repository data.
-
 - <a name="other-data"></a>
 **Other data** —
-Additionally, GitHub collects analytics data such as page visits and information occasionally volunteered by our users (such as communications with our support team, survey information and/or site registrations).
+Additionally, TurgenSec collects analytics data such as page visits and information occasionally volunteered by our users (such as communications with our support team, survey information and/or site registrations).
 
 ### We will notify any affected account owners
 
@@ -102,13 +66,14 @@ It is our policy to notify users about any pending requests regarding their acco
 ### Disclosure of non-public information
 
 It is our policy to disclose non-public user information in connection with a civil or criminal investigation only with user consent or upon receipt of a valid subpoena, civil investigative demand, court order, search warrant, or other similar valid legal process. In certain exigent circumstances (see below), we also may share limited information but only corresponding to the nature of the circumstances, and would require legal process for anything beyond that.
-GitHub reserves the right to object to any requests for non-public information.
-Where GitHub agrees to produce non-public information in response to a lawful request, we will conduct a reasonable search for the requested information.
+TurgenSec reserves the right to object to any requests for non-public information.
+Where TurgenSec agrees to produce non-public information in response to a lawful request, we will conduct a reasonable search for the requested information.
+
 Here are the kinds of information we will agree to produce, depending on the kind of legal process we are served with:
 
 - <a name="with-user-consent"></a>
 **With user consent** —
-GitHub will provide private account information, if requested, directly to the user (or an owner, in the case of an organization account), or to a designated third party with the user's written consent once GitHub is satisfied that the user has verified his or her identity.
+TurgenSec will provide private account information, if requested, directly to the user (or an owner, in the case of an organization account), or to a designated third party with the user's written consent once TurgenSec is satisfied that the user has verified his or her identity.
 
 - <a name="with-a-subpoena"></a>
 **With a subpoena** —
@@ -126,9 +91,9 @@ In the case of organization accounts, we can provide the name(s) and email addre
 Please note that the information available will vary from case to case. Some of the information is optional for users to provide. In other cases, we may not have collected or retained the information.
 
 - <a name="with-a-court-order-or-a-search-warrant"></a>
-**With a court order *or* a search warrant** — We will not disclose account access logs unless compelled to do so by either
-(i) a court order issued under 18 U.S.C. Section 2703(d), upon a showing of specific and articulable facts showing that there are reasonable grounds to believe that the information sought is relevant and material to an ongoing criminal investigation; or
-(ii) a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures, upon a showing of probable cause.
+**With a court order *or* a search warrant** — We will not disclose account access logs unless compelled to do so by either a court order , upon a showing of specific and articulable facts showing that there are reasonable grounds to believe that the information sought is relevant and material to an ongoing criminal investigation; or
+(ii) a search warrant upon a showing of probable cause.
+
 In addition to the non-public user account information listed above, we can provide account access logs in response to a court order or search warrant, which may include:
 
   - Any logs which would reveal a user's movements over a period of time
@@ -141,11 +106,8 @@ In addition to the non-public user account information listed above, we can prov
 We will not disclose the private contents of any user account unless compelled to do so under a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures upon a showing of probable cause.
 In addition to the non-public user account information and account access logs mentioned above, we will also provide private user account contents in response to a search warrant, which may include:
 
-  - Contents of secret Gists
-  - Source code or other content in private repositories
-  - Contribution and collaboration records for private repositories
-  - Communications or documentation (such as Issues or Wikis) in private repositories
   - Any security keys used for authentication or encryption
+  - Any personal information that would infringe an individual's right to privacy
 
 - <a name="in-exigent-circumstances"></a>
 
@@ -165,13 +127,11 @@ We will take steps to preserve account records for up to 90 days upon formal req
 Please serve requests to:
 
 ```
-GitHub, Inc.
-c/o Corporation Service Company
-2710 Gateway Oaks Drive, Suite 150N
-Sacramento, CA 95833-3505
+security@turgensec.com
+TURGENSEC LTD
+Company number: 12058948
+Registered office address: The Studio, Rochester Place, London, England, NW1 9JU
 ```
-
-You may also send a courtesy copy to legal@support.github.com.
 
 Please make your requests as specific and narrow as possible, including the following information:
 
@@ -186,10 +146,8 @@ Please allow at least two weeks for us to be able to look into your request.
 
 ### Requests from foreign law enforcement
 
-As a United States company based in California, GitHub is not required to provide data to foreign governments in response to legal process issued by foreign authorities.
-Foreign law enforcement officials wishing to request information from GitHub should contact the United States Department of Justice Criminal Division's Office of International Affairs.
-GitHub will promptly respond to requests that are issued via U.S. court by way of a mutual legal assistance treaty (“MLAT”) or letter rogatory.
+TurgenSec is not required to provide data to foreign governments in response to legal process issued by foreign authorities.
 
 ### Questions
 
-Do you have other questions, comments or suggestions? Please contact {{ site.data.variables.contact.contact_support }}.
+Do you have other questions, comments or suggestions? Please [contact us](https://turgensec.com/contact/).
