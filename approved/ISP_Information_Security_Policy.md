@@ -9,7 +9,7 @@ Version|Date|Company|Last change
 # 1. Preamble
 ## 1.1 Introduction
 
-TurgenSec commits to information security principles through the protection of confidentiality, integrity and availability and the promotion of accountability. This policy governs the company’s information security management system (ISMS).
+TurgenSec commits to information security principles through the protection of confidentiality, integrity and availability and the promotion of accountability. This policy governs the company’s Information Security Management System (ISMS).
 
 On the basis of risk, the ISMS defines, manages and improves appropriate processes and controls. This policy sets out the company’s responsibilities, accountability and approach and is endorsed by the board of directors.
 
@@ -32,22 +32,24 @@ The ISMS aims to:
 - On a continual basis, promote the review and improvement of the ISMS.
 
 # 2. Policy
+
 ## 2.1 Principles
-TurgenSec will establish, maintain and improve an ISMS and associated risk management programme.
-This policy will be approved by senior management and reviewed at least annually.
-All relevant legislative, regulatory and contractual requirements will be met.
-Deviations from this policy will be identified and remedied.
+- TurgenSec will establish, maintain and improve an ISMS and associated risk management programme.
+- This policy will be approved by senior management and reviewed at least annually.
+- All relevant legislative, regulatory and contractual requirements will be met.
+- Deviations from this policy will be identified and remedied.
+
 ## 2.2 Requirements
 TurgenSec shall:
 
-Decide, document and communicate the objectives of the ISMS;
-Communicate the contents of and responsibilities outlined in this policy to all interested parties;
-Establish and maintain risk criteria and analyses and take these into account when planning and implementing information security initiatives;
-Develop such additional policies, documents and controls as are appropriate and proportionate to ensure the efficient operation of the ISMS.
-Design, implement, change and manage information systems so as to achieve this policy’s objectives.
-Develop, maintain and regularly test business continuity plans;
-Measure and monitor compliance with this policy and take steps to maintain and enforce compliance and to improve the ISMS; and
-Comply with all relevant legislative, regulatory and contractual information security requirements.
+1. Decide, document and communicate the objectives of the ISMS;
+2. Communicate the contents of and responsibilities outlined in this policy to all interested parties;
+3. Establish and maintain risk criteria and analyses and take these into account when planning and implementing information security initiatives;
+4. Develop such additional policies, documents and controls as are appropriate and proportionate to ensure the efficient operation of the ISMS.
+5. Design, implement, change and manage information systems so as to achieve this policy’s objectives.
+6. Develop, maintain and regularly test business continuity plans;
+7. Measure and monitor compliance with this policy and take steps to maintain and enforce compliance and to improve the ISMS; and
+8. Comply with all relevant legislative, regulatory and contractual information security requirements.
 
 # 3. Document control
 ## 3.1 Administration
@@ -63,9 +65,10 @@ Audience: Public
 
 ## 3.2 Document history
 
-See git log.
+Future changes to be tracked using Git Version Control.
 
 ### Early Life
+
 Date|Version|Author|Changes
 ---|---|---|---
 04/04/2020|1.0|Rob Pomeroy|First draft

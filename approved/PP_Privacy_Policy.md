@@ -1,6 +1,8 @@
 # Privacy Notice
 <h2 color="red">DOCUMENT CLASSIFICATION: PUBLIC</h2>
 
+## Latest Change
+
 Version|Date|Company|Last change
 ---|---|---|---
 1.1|25th May 2020|TurgenSec Ltd|Moved to Git
@@ -179,9 +181,10 @@ Privacy Policy|1.0|Until next issue|Public|26 March 2020|26 March 2021|Rob Pomer
 
 ## 3.2 Document history
 
-See Git log.
+Future changes to be tracked using Git Version Control.
 
 ### Early Life
+
 Date|Version|Author|Changes
 ---|---|---|---
 26/03/2020|1.0|George Punter|First draft

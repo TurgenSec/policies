@@ -2,6 +2,8 @@
 
 <h2 color="red">DOCUMENT CLASSIFICATION: PUBLIC</h2>
 
+## Latest Change
+
 Version|Date|Company|Last change
 ---|---|---|---
 1.1|25th May 2020|TurgenSec Ltd|Moved to Git
@@ -226,6 +228,8 @@ Sponsor: Nathaniel Fried, Founder
 Audience: Public
 
 ## 5.2 Document history
+
+Future changes to be tracked using Git Version Control.
 
 ### Early Life
 
