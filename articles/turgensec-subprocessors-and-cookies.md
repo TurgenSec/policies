@@ -1,16 +1,4 @@
----
-title: GitHub Subprocessors and Cookies
-redirect_from:
-  - /subprocessors/
-  - /github-subprocessors/
-  - /github-tracking/
-  - /github-cookies/
-  - /articles/github-subprocessors-and-cookies
-productVersions:
-  dotcom: '*'
----
-
-Effective date: **August 8, 2019**
+Effective date: **June 1, 2019**
 
 GitHub provides a great deal of transparency regarding how we use your data, how we collect your data, and with whom we share your data. To that end, we provide this page, which details [our subprocessors](#github-subprocessors), how we use [cookies](#cookies-on-github), and where and how we perform any [tracking on GitHub](#tracking-on-github).
 
