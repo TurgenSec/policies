@@ -6,9 +6,9 @@ policies as feasible on GitHub. Notable exceptions will be policies for
 internal-only use and/or those with particular sensitivity.
 
 Our policies on GitHub are open-source under under [CC0-1.0](#license). You may
-use than and repurpose them however you wish, provided that you do not charge
-for their use. Bear in mind that these policies are specific to TurgenSec, so
-any further use is likely to require adapatation.
+use and repurpose them however you wish, provided that you do not charge for
+their use. Bear in mind that these policies are specific to TurgenSec, so any
+further use is likely to require adapatation.
 
 # Important notes
 
@@ -16,5 +16,5 @@ any further use is likely to require adapatation.
 - We regret we are not able to offer advice or assistance in your use of these
   policies.
 - You should consult a lawyer or policy specialist, if adapting these policies
-  to you own organisation.
+  to your own organisation.
 
