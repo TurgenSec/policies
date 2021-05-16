@@ -95,7 +95,6 @@ TurgenSec supports the principle of access to appropriate compensation following
 
     - When TurgenSec’s research and development activities bring to light breaches, the company activates its responsible disclosure policy. Responsible disclosure represents a value proposition for TurgenSec’s services (as outlined under # 4. Breach Disclosure Ethics).
     - TurgenSec’s Exosystem Monitoring service monitors third party breaches for corporate clients, providing the necessary information, resources and - tools to reduce the risk and impact of breaches affecting the supply chain and other third parties.
-    - TurgenSec’s Data Shadow service provides clients with tools and information to monitor their personal and third party information online. Partnered with Ethi.me (https://ethi.me/) the Data Shadow service empowers clients to monitor, remove and evaluate the personal information that could be used against them to phish, extort and make opposition market gains.
 2. Promoting the legitimate expectation that personal data is treated with care.
     - TurgenSec’s business services and responsible disclosure practices ensure personal data privacy for clients and individuals impacted by data - breaches.
     - TurgenSec treats all personal data with which it interacts with care. 
