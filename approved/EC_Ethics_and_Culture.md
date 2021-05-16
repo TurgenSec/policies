@@ -52,7 +52,7 @@ In the context of data breaches information asymmetry relates to the imbalance o
 >“The UK’s independent authority set up to uphold information rights in the public interest, promoting openness by public bodies and data privacy for individuals.” -- https://ico.org.uk
 
 ### 1.2.7 CMA: Computer Misuse Act 1990.
-UK law against misuse of computers. In the 30 years since it was passed, ethical hackers have never been prosecuted for criminal charges under it.
+UK law against misuse of computers. In the 30 years since it was passed, we are not aware of any instance when ethical hackers have ever been prosecuted for criminal charges under it.
 
 ### 1.2.8 GDPR: The General Data Protection Regulation 2016/679 
 
